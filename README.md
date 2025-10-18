@@ -26,13 +26,18 @@ The project ensures fast and accurate detection while maintaining real-time perf
 -Configurable detection confidence, frame limits, and video output
 -Extensible for custom datasets and object tracking
 
-# Future Improvements:
+# Contributing Guidelines:
 
--Real-time object counting (people, cars, etc.)
--Custom dataset training for specific objects
--Object tracking with DeepSORT/SORT
--Edge deployment on Raspberry Pi / Jetson Nano
--Integration with GUI for easier control
+-Contributions are welcome! To contribute:
+-Fork this repository.
+-Create a new branch (feature-new-function or bugfix-issue).
+-Commit your changes with a clear message.
+-Submit a pull request explaining your update.
+-Please follow Python’s PEP 8 style guide for consistency.
 
-# Author:
-Aditi Bharat Bhosale aditibhosale2111@gmail.com
+# Contact Information:
+
+For any questions, issues, or suggestions:
+📧 Email: aditibhosale2111@gmail.com
+
+
